@@ -1,0 +1,22 @@
+ Книги от издавтельства "Питер"
+Домен - название/имя сайта 
+    miit.ru - .ru домен первого уровня, miit - домен второго уровня
+    ip адрес сайта
+Хостинг
+    серверная os 
+    c-panel 
+    apache
+    mysql
+cms control managment system
+    html 5, css 3
+    платные
+        1с битрикс
+    бесплатные
+        wordpress (блоги, корп сайты, магащины) - rest api
+        joomla - высокая отказоустройчивость
+        drupal 
+        Open Card 
+
+    cms - контроль внутренних ссылок, 
+
+Corel Draw - конкурент adobe

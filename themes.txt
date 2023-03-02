@@ -1,0 +1,43 @@
+Прототипирование (
+    визуализация,
+    rational rose (блочная среда),
+    open server (apache, mysql),
+    vmware,
+    создание загрузочной флешки
+)
+
+web разработка(
+    cms (wordpress),
+    erp,
+    sep, ip-tel, lms,
+    Домен, хостинг,
+)
+
+Документооборот(
+    БизнесПак,
+    1С УПП
+)
+
+Микропк(
+    rb pi,
+    linux mint,
+    asterix,
+    rasberry cloud,
+    прочие проекты
+)
+
+open vpn и удаленное администрирование(
+    vns,
+    radmin,
+    teamviewer
+)
+
+дз1(
+    установить vmworkstation,
+    установить винду,
+    установить open server,
+    установить фотошоп,
+    скачать wordpress(не устанавливать)
+)
+
+st@mobinprint.ru
